@@ -1,0 +1,30 @@
+#this is comment
+
+name: John
+
+name:
+    - John
+    - Paul
+    - Rob
+
+book:
+    author: John Doe
+    publisher: random house
+
+sometrue: true
+some_another_true: yes
+also_true: True
+
+false: no #No, False, false, FALSE
+
+string_val:  "This is not number"
+
+include_new_lines: |
+    this will be
+    in different
+    lines
+
+exclude_new_linex: >
+    this wiil
+    bee one
+    and veri looong line
