@@ -1,0 +1,4 @@
+app:
+  username: John
+  password: 123
+  url: somewurl
